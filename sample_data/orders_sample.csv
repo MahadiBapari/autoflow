@@ -1,0 +1,21 @@
+order_id,customer_name,order_date,amount,region
+ORD-1001,John Smith,2024-03-01,250.00,North
+ORD-1002,jane doe,2024/03/02,"$1,200.50",South
+ORD-1003,ACME CORP,03/05/2024,89.99,East
+ORD-1004,Maria Garcia,2024-03-06,0,West
+ORD-1002,Jane Doe,2024-03-02,1200.50,South
+ORD-1005,,2024-03-07,45.00,North
+ORD-1006,Liam Chen,2024-13-45,300,East
+ORD-1007,Olivia Brown,2024-03-09,abc,West
+ORD-1008,Noah Wilson,2024-03-10,-50,North
+,Emma Davis,2024-03-11,75.25,South
+ORD-1009,Sophia Martinez,15 Mar 2024,410.00,East
+ORD-1010,James Taylor,,99.00,West
+ORD-1011,Ava Anderson,2024-03-14,,North
+ORD-1012,William Thomas,2024-03-15,"1,050",South
+ORD-1001,John Smith,2024-03-01,250,North
+ORD-1013,  isabella   moore ,2024-03-16,60.4567,East
+ORD-1014,Ethan Jackson,not a date,xyz,West
+ORD-1015,Mia White,2024-03-18,520.10,North
+ORD-1016,Lucas Harris,2024-03-19,33.3,South
+ORD-1012,Will Thomas,2024-03-20,10,East
